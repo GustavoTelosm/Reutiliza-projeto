@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://reutiliza-xyz.railway.app'
+  apiUrl: 'https://reutiliza-projeto-backend.vercel.app'
 };
