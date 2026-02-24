@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:3000/api',  // ← Caminho relativo (usa proxy)
+  apiUrl: 'https://reutiliza-projeto-backend.vercel.app',  // ← Caminho relativo (usa proxy)
 
   // Configurações do Capacitor
   appVersion: '1.0.0',
